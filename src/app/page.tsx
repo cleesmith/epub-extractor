@@ -70,7 +70,7 @@ export default function Home() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>EPUB Extractor: <b>unzip</b> <i>some_ebook</i>.epub to ~/Documents/<i>some_ebook</i></h1>
+      <h1 style={styles.title}>EPUB Extractor: &nbsp;<b>UNZIP</b> <i>some_ebook</i>.epub to ~/Documents/<i>some_ebook</i></h1>
 
       <div style={styles.panels}>
         {/* Left Panel - Controls */}

@@ -2,5 +2,6 @@ cls*
 
 node_modules
 .next
+
 .DS_Store
 *.log
